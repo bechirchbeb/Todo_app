@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402668888698",
+    "project_id": "signinn-8273b",
+    "storage_bucket": "signinn-8273b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402668888698:android:a4b3cce1d2faf73f3f11c3",
+        "android_client_info": {
+          "package_name": "com.example.mobiletodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402668888698-2bn70rvpnkteckgm85gd52ol2hg6fcn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedc80lQXi2C5WWWuEvMedc2H_gr_APi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402668888698-2bn70rvpnkteckgm85gd52ol2hg6fcn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
