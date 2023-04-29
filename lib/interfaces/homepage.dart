@@ -33,7 +33,7 @@ class _HomepageState extends State<Homepage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('TaskMaster:Your Ultimate To-Do List App'),
+        title: const Text('TaskMaster'),
       ),
       backgroundColor: const Color(0xFFF5EBFF),
       body: Column(
